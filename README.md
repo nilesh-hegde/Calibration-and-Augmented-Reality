@@ -7,7 +7,7 @@ IDE - None (CLE using terminal)
 
 
 Build instructions: 
-1. Use CMakeLists.txt to generate make file then build target and then execute target (Command line execution using terminal in Linux (debian)). Command is ./project <pattern> <obj file> for tasks 1-6 and extension and ./task for Harris Corner.
+1. Use CMakeLists.txt to generate make file then build target and then execute target (Command line execution using terminal in Linux (debian)). Command is ./project <pattern> <obj file> for tasks of calibrating and projecting wavefront object and to replace target with an image of your choice and ./task for Harris Corner.
 2. If any of the tasks do not mirror the tasks, please build and execute once again. 
 3. NOTE - Please keep target (checkboard or circle grid) in focus for camera to detect intially. Application will close otherwise.
 
