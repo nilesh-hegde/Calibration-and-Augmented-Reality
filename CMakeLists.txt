@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.15)
+project( Project4 )
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable( project4 helper.hpp main.cpp )
+add_executable( task7 robust.cpp )
+target_link_libraries( project4 ${OpenCV_LIBS} )
+target_link_libraries( task7 ${OpenCV_LIBS} )
