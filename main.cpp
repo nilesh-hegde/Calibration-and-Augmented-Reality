@@ -1,9 +1,3 @@
-/*
-Nilesh Hegde
-Project 4 - Camera calibration and AR
-Description - This script along with helper.hpp is used to complete Tasks 1-6 of Project 4
-*/
-
 #include <opencv2/core.hpp>
 #include <opencv2/calib3d/calib3d.hpp>
 #include <opencv2/imgcodecs.hpp>

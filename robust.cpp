@@ -1,8 +1,3 @@
-/*
-Nilesh Hegde
-Project 4 - camera calibration and AR
-Description - This script is used to complete task 7 and implements Harris detection to detect robust features
-*/
 #include "opencv2/highgui.hpp"
 #include "opencv2/imgproc.hpp"
 #include <iostream>

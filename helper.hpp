@@ -1,8 +1,3 @@
-/*
-Nilesh Hegde
-Project 4 - Camera calibration and AR
-Description - This script consists of functions that help in the smooth running of the system to implement Tasks 1-6
-*/
 #include <bits/stdc++.h>
 
 using namespace cv;
